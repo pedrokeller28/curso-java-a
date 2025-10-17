@@ -14,5 +14,6 @@ public class Exercicio2 {
         // System.out.println("Seu nome é " + nome + " e Sua idade é: " + idade);
         System.out.printf("Seu nome é %s e Sua idade é: %d", nome, idade);
         scanner.close();
+        //Pedro
     }
 }
